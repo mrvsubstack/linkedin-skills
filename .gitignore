@@ -1,0 +1,4 @@
+.env
+.DS_Store
+post-ready-to-paste.txt
+__pycache__/

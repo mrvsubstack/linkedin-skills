@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0B10"/>
+      <stop offset="1" stop-color="#17171F"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A66C2"/>
+      <stop offset="1" stop-color="#0A66C2" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="24" fill="url(#g)"/>
+  <rect x="72" y="92" width="10" height="236" rx="5" fill="url(#a)"/>
+  <text x="110" y="150" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#0A66C2" letter-spacing="3">CLAUDE SKILLS · BY MR V</text>
+  <text x="108" y="238" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="84" font-weight="800" fill="#FFFFFF">LinkedIn Skills</text>
+  <text x="110" y="300" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#B4B4C3">10 skills that write in your voice and publish through Postiz.</text>
+  <text x="110" y="344" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#7C7C8C">Draft → you approve → Postiz schedules. Nothing posts without your yes.</text>
+  <circle cx="1060" cy="120" r="150" fill="#0A66C2" opacity="0.10"/>
+  <circle cx="1110" cy="330" r="90" fill="#0A66C2" opacity="0.08"/>
+</svg>

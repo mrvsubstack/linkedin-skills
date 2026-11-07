@@ -1,0 +1,34 @@
+{
+  "name": "linkedin-skills",
+  "owner": {
+    "name": "Mr.V",
+    "url": "https://github.com/mrvsubstack"
+  },
+  "metadata": {
+    "description": "10 Claude skills for LinkedIn: linkedin post writer, linkedin profile optimizer, linkedin content planner, linkedin comment drafter, linkedin reply handler, linkedin hook extractor, linkedin repurposer, linkedin humanizer, linkedin engager analytics, plus a Postiz publisher that schedules approved posts."
+  },
+  "plugins": [
+    {
+      "name": "linkedin-skills",
+      "source": "./",
+      "description": "10 Claude skills for LinkedIn: linkedin post writer, linkedin profile optimizer, linkedin content planner, linkedin comment drafter, linkedin reply handler, linkedin hook extractor, linkedin repurposer, linkedin humanizer, linkedin engager analytics, plus a Postiz publisher that schedules approved posts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr.V",
+        "url": "https://github.com/mrvsubstack"
+      },
+      "homepage": "https://github.com/mrvsubstack/linkedin-skills",
+      "license": "MIT",
+      "keywords": [
+        "linkedin",
+        "social-media",
+        "marketing",
+        "content",
+        "claude-skills",
+        "postiz",
+        "scheduling"
+      ],
+      "category": "productivity"
+    }
+  ]
+}
